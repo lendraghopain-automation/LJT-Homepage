@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also previously advised by Prof. Junxian He. My research focuses on natural language processing and machine learning.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also previously advised by Prof. Junxian He. My research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
@@ -31,7 +31,7 @@ My research interests include:
 
 ## Publications
 
-(* denotes equal contribution / first-author works; I am the first author of the first three papers listed)
+(I am the first author of the first three papers listed.)
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv).
   Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
@@ -56,4 +56,4 @@ My research interests include:
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 - **GitHub:** [Vicent0205](https://github.com/Vicent0205)
 - **Google Scholar:** [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter):** [@junteng88716710](https://x.com/junteng88716710)
+- **X (Twitter):** @junteng88716710
